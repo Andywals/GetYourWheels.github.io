@@ -1,0 +1,50 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jul 30, 2017, 12:00:07 AM
+    Author     : ANIKET
+*/
+
+.gyw{
+    
+    color: #00FF40;
+    top: 0px;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+div.heading{
+    color: #FFFFFF;
+    top: 0px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bolder;
+}
+div.table{
+    color: #00C0FF;
+    font-weight: bolder;
+    background-size: 420px 720px;
+    background-repeat: repeat-y;
+    padding: 0px;
+    font-size: 22px;
+}
+.button{
+    background-color: #004040;
+    color: white;
+    font-size: 15px;
+    background-size: 100%;
+}
+
+.link{
+    color: lightgoldenrodyellow;
+    font-weight: bolder;
+}
+th, td, tr{
+    padding: 5px;
+}
+
+
